@@ -4,7 +4,7 @@
 
     
 
-    <modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.5</modelVersion>
     <groupId>com.educacionit.java.web</groupId>
     <artifactId>jsf-text</artifactId>
     <version>1.0.0</version>
